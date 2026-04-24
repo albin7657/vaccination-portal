@@ -193,5 +193,4 @@ Base URL: `http://localhost:5000`
 - MongoDB connection string and frontend origin are hardcoded for local development.
 - No automated tests are configured (`backend/package.json` test script is a placeholder).
 
-## License
-No license file is currently present in the repository. If you plan to open-source this project, consider adding a license (e.g., MIT, Apache-2.0).
+
